@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Ali Asghar Azargun. I am a backend developer and I am currently learning
+Hello, I am Ali Asghar Azargoon. I am a backend developer and I am currently learning
 
 
 ## 🌐 Socials:
